@@ -49,7 +49,7 @@ movie-agent/
 
 ### Clone the Repository
 ```
-git clone https://github.com/<your-username>/movie-agent.git
+git clone https://github.com/Ishashetty07/movie-agent.git
 cd movie-agent
 ```
 
