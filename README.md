@@ -98,7 +98,7 @@ data/movies.json
 ## 👤 Author
 
 Isha Shetty  
-GitHub: https://github.com/<your-username>
+GitHub: https://github.com/Ishashetty07
 
 ---
 
